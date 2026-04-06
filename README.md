@@ -1232,3 +1232,12 @@ Some data mining competition platforms
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Awesome Datascience*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/awesome-datascience 
+
+See `CITATION.cff` for formatted references.
